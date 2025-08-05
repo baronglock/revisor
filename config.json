@@ -1,5 +1,5 @@
 {
-    "api_key": "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",
+    "api_key": "",
     "model": "gpt-4.1",
     "max_tokens_per_chunk": 10000,
     "temperature": 0.1,
