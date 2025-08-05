@@ -1,0 +1,438 @@
+2025-08-05 09:32:36,167 - src.core.document_processor - INFO - Lendo documento: Y:/07_Inovatech 2025/39. MICROCONTROLADORES E MICROPROCESSADORES/01. Iconografia/Livro - MICROCONTROLADORES E MICROPROCESSADORES_ICO_Elcio.docx
+2025-08-05 09:32:39,767 - src.core.document_processor - INFO - Extraídos 904 textos para revisão
+2025-08-05 09:32:39,767 - src.core.document_processor - INFO - Textos agrupados em 10 blocos grandes
+2025-08-05 09:34:18,091 - src.core.document_processor - ERROR - Erro ao processar documento: type object 'WordDocumentHandler' has no attribute '_apply_runs_to_paragraph'
+2025-08-05 09:34:18,123 - root - ERROR - Erro no processamento: type object 'WordDocumentHandler' has no attribute '_apply_runs_to_paragraph'
+2025-08-05 09:38:19,829 - src.core.document_processor - INFO - Lendo documento: C:/Users/Gabriel.Glock/Desktop/projeto_editor/Inovatech_64.Livro-MARKETING PESSOAL E GESTÃO DE CARREIRA_Ico.docx
+2025-08-05 09:38:20,779 - src.core.document_processor - INFO - Extraídos 578 textos para revisão
+2025-08-05 09:38:20,779 - src.core.document_processor - INFO - Textos agrupados em 10 blocos grandes
+2025-08-05 09:39:26,629 - src.core.document_processor - INFO - Documento revisado salvo: output/revised\Inovatech_64.Livro-MARKETING PESSOAL E GESTÃO DE CARREIRA_Ico_revisado_20250805_093819.docx
+2025-08-05 09:39:26,635 - src.core.document_comparer - INFO - Usando método tradicional de comparação
+2025-08-05 09:39:27,303 - src.core.document_comparer - INFO - Documento de comparação salvo: output/comparisons\Inovatech_64.Livro-MARKETING PESSOAL E GESTÃO DE CARREIRA_Ico_comparacao_20250805_093926.docx
+2025-08-05 09:51:33,860 - src.core.document_processor - ERROR - Erro ao processar documento: 'OpenAIClient' object has no attribute 'api_key'
+2025-08-05 09:51:33,862 - root - ERROR - Erro no processamento: 'OpenAIClient' object has no attribute 'api_key'
+2025-08-05 10:13:50,172 - src.core.document_processor - INFO - Copiando documento original: C:/Users/Gabriel.Glock/Desktop/projeto_editor/Inovatech_64.Livro-MARKETING PESSOAL E GESTÃO DE CARREIRA_Ico.docx
+2025-08-05 10:13:50,486 - src.core.document_processor - INFO - Encontrados 578 textos para revisar
+2025-08-05 10:13:50,488 - src.core.document_processor - INFO - Agrupados em 4 blocos
+2025-08-05 10:27:00,556 - src.core.document_processor - INFO - Aplicadas 383 correções
+2025-08-05 10:27:01,377 - src.core.document_processor - INFO - Documento revisado salvo: output/revised\Inovatech_64.Livro-MARKETING PESSOAL E GESTÃO DE CARREIRA_Ico_revisado_20250805_101350.docx
+2025-08-05 10:27:01,387 - src.core.document_comparer - INFO - Usando método tradicional de comparação
+2025-08-05 10:27:02,404 - src.core.document_comparer - INFO - Documento de comparação salvo: output/comparisons\Inovatech_64.Livro-MARKETING PESSOAL E GESTÃO DE CARREIRA_Ico_comparacao_20250805_102701.docx
+2025-08-05 10:43:04,890 - src.core.document_processor - INFO - Copiando documento original: C:/Users/Gabriel.Glock/Desktop/projeto_editor/Inovatech_64.Livro-MARKETING PESSOAL E GESTÃO DE CARREIRA_Ico.docx
+2025-08-05 10:43:05,226 - src.core.document_processor - INFO - Encontrados 577 textos para revisar
+2025-08-05 10:43:05,227 - src.core.document_processor - INFO - Agrupados em 4 blocos
+2025-08-05 10:47:16,035 - src.core.document_processor - INFO - Copiando documento original: C:/Users/Gabriel.Glock/Desktop/projeto_editor/Inovatech_64.Livro-MARKETING PESSOAL E GESTÃO DE CARREIRA_Ico.docx
+2025-08-05 10:47:16,345 - src.core.document_processor - INFO - Encontrados 577 textos para revisar
+2025-08-05 10:47:16,346 - src.core.document_processor - INFO - Agrupados em 4 blocos
+2025-08-05 11:00:57,872 - src.core.document_processor - INFO - Aplicadas 334 correções
+2025-08-05 11:00:58,667 - src.core.document_processor - INFO - Documento revisado salvo: output/revised\Inovatech_64.Livro-MARKETING PESSOAL E GESTÃO DE CARREIRA_Ico_revisado_20250805_104715.docx
+2025-08-05 11:00:58,672 - src.core.document_comparer - INFO - Usando método tradicional de comparação
+2025-08-05 11:00:59,620 - src.core.document_comparer - INFO - Documento de comparação salvo: output/comparisons\Inovatech_64.Livro-MARKETING PESSOAL E GESTÃO DE CARREIRA_Ico_comparacao_20250805_110058.docx
+2025-08-05 11:15:25,761 - src.core.document_processor - INFO - Copiando documento original: C:/Users/Gabriel.Glock/Desktop/meu_projeto_pdf/src/Aprender Mais_5º Ano POR 1 ao 16.docx
+2025-08-05 11:15:26,831 - src.core.document_processor - INFO - Encontrados 3512 textos para revisar
+2025-08-05 11:15:26,833 - src.core.document_processor - INFO - Agrupados em 8 blocos
+2025-08-05 11:29:26,917 - src.core.document_processor - INFO - Copiando documento original: C:/Users/Gabriel.Glock/Desktop/meu_projeto_pdf/src/Aprender Mais_5º Ano POR 1 ao 16.docx
+2025-08-05 11:29:28,133 - src.core.document_processor - INFO - Encontrados 3512 textos para revisar
+2025-08-05 11:29:28,135 - src.core.document_processor - INFO - Agrupando textos em blocos de até 200,000 caracteres
+2025-08-05 11:29:28,136 - src.core.document_processor - INFO - Agrupados em 2 blocos
+2025-08-05 11:29:28,520 - openai - INFO - error_code=unsupported_parameter error_message="Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead." error_param=max_tokens error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-08-05 11:29:28,521 - src.utils.api_client - ERROR - Tentativa 1 falhou: Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.
+2025-08-05 11:29:29,837 - openai - INFO - error_code=unsupported_parameter error_message="Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead." error_param=max_tokens error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-08-05 11:29:29,837 - src.utils.api_client - ERROR - Tentativa 2 falhou: Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.
+2025-08-05 11:29:32,105 - openai - INFO - error_code=unsupported_parameter error_message="Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead." error_param=max_tokens error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-08-05 11:29:32,107 - src.utils.api_client - ERROR - Tentativa 3 falhou: Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.
+2025-08-05 11:29:32,107 - src.utils.api_client - ERROR - Erro ao revisar texto 1: Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.
+2025-08-05 11:29:32,331 - openai - INFO - error_code=unsupported_parameter error_message="Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead." error_param=max_tokens error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-08-05 11:29:32,333 - src.utils.api_client - ERROR - Tentativa 1 falhou: Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.
+2025-08-05 11:29:33,560 - openai - INFO - error_code=unsupported_parameter error_message="Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead." error_param=max_tokens error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-08-05 11:29:33,561 - src.utils.api_client - ERROR - Tentativa 2 falhou: Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.
+2025-08-05 11:29:35,825 - openai - INFO - error_code=unsupported_parameter error_message="Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead." error_param=max_tokens error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-08-05 11:29:35,825 - src.utils.api_client - ERROR - Tentativa 3 falhou: Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.
+2025-08-05 11:29:35,826 - src.utils.api_client - ERROR - Erro ao revisar texto 2: Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.
+2025-08-05 11:29:37,664 - openai - INFO - error_code=unsupported_parameter error_message="Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead." error_param=max_tokens error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-08-05 11:29:37,665 - src.utils.api_client - ERROR - Tentativa 1 falhou: Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.
+2025-08-05 11:29:38,899 - openai - INFO - error_code=unsupported_parameter error_message="Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead." error_param=max_tokens error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-08-05 11:29:38,899 - src.utils.api_client - ERROR - Tentativa 2 falhou: Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.
+2025-08-05 11:29:41,291 - openai - INFO - error_code=unsupported_parameter error_message="Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead." error_param=max_tokens error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-08-05 11:29:41,291 - src.utils.api_client - ERROR - Tentativa 3 falhou: Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.
+2025-08-05 11:29:41,291 - src.utils.api_client - ERROR - Erro ao revisar texto 3: Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.
+2025-08-05 11:29:41,518 - openai - INFO - error_code=unsupported_parameter error_message="Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead." error_param=max_tokens error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-08-05 11:29:41,519 - src.utils.api_client - ERROR - Tentativa 1 falhou: Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.
+2025-08-05 11:31:14,000 - src.core.document_processor - INFO - Copiando documento original: C:/Users/Gabriel.Glock/Desktop/meu_projeto_pdf/src/Aprender Mais_5º Ano POR 1 ao 16.docx
+2025-08-05 11:31:15,100 - src.core.document_processor - INFO - Encontrados 3512 textos para revisar
+2025-08-05 11:31:15,101 - src.core.document_processor - INFO - Agrupando textos em blocos de até 200,000 caracteres
+2025-08-05 11:31:15,103 - src.core.document_processor - INFO - Agrupados em 2 blocos
+2025-08-05 11:31:15,663 - openai - INFO - error_code=unsupported_value error_message="Unsupported value: 'temperature' does not support 0.0 with this model. Only the default (1) value is supported." error_param=temperature error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-08-05 11:31:15,663 - src.utils.api_client - ERROR - Tentativa 1 falhou: Unsupported value: 'temperature' does not support 0.0 with this model. Only the default (1) value is supported.
+2025-08-05 11:31:17,058 - openai - INFO - error_code=unsupported_value error_message="Unsupported value: 'temperature' does not support 0.0 with this model. Only the default (1) value is supported." error_param=temperature error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-08-05 11:31:17,058 - src.utils.api_client - ERROR - Tentativa 2 falhou: Unsupported value: 'temperature' does not support 0.0 with this model. Only the default (1) value is supported.
+2025-08-05 11:34:34,821 - src.core.document_processor - INFO - Copiando documento original: C:/Users/Gabriel.Glock/Desktop/meu_projeto_pdf/src/Aprender Mais_5º Ano POR 1 ao 16.docx
+2025-08-05 11:34:36,022 - src.core.document_processor - INFO - Encontrados 3512 textos para revisar
+2025-08-05 11:34:36,022 - src.core.document_processor - INFO - Agrupando textos em blocos de até 200,000 caracteres
+2025-08-05 11:34:36,022 - src.core.document_processor - INFO - Agrupados em 2 blocos
+2025-08-05 11:43:56,770 - src.core.document_processor - INFO - Copiando documento original
+2025-08-05 11:43:57,845 - src.core.document_processor - INFO - Encontrados 3603 textos para análise
+2025-08-05 11:43:57,846 - src.core.document_processor - INFO - Agrupados em 2 blocos
+2025-08-05 11:43:58,804 - openai - INFO - error_code=unsupported_parameter error_message="Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead." error_param=max_tokens error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-08-05 11:43:58,805 - src.utils.api_client - ERROR - Tentativa 1 falhou: Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.
+2025-08-05 11:44:00,507 - openai - INFO - error_code=unsupported_parameter error_message="Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead." error_param=max_tokens error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-08-05 11:44:00,507 - src.utils.api_client - ERROR - Tentativa 2 falhou: Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead.
+2025-08-05 11:46:41,669 - src.core.document_processor - INFO - Copiando documento original
+2025-08-05 11:46:42,937 - src.core.document_processor - INFO - Encontrados 3603 textos para análise
+2025-08-05 11:46:42,939 - src.core.document_processor - INFO - Agrupados em 2 blocos
+2025-08-05 11:47:26,302 - src.core.document_processor - INFO - Bloco 2: 1 erros encontrados
+2025-08-05 11:47:27,248 - src.core.document_processor - INFO - Documento salvo com 0 correções aplicadas
+2025-08-05 11:47:27,248 - src.core.document_processor - INFO - Relatório salvo: output/revised\Aprender Mais_5º Ano POR 1 ao 16_revisado_20250805_114641_corrections_report.json
+2025-08-05 11:47:27,254 - src.core.document_comparer - INFO - Usando método tradicional de comparação
+2025-08-05 11:47:29,703 - src.core.document_comparer - INFO - Documento de comparação salvo: output/comparisons\Aprender Mais_5º Ano POR 1 ao 16_comparacao_20250805_114727.docx
+2025-08-05 11:50:34,768 - src.core.document_processor - INFO - Copiando documento original
+2025-08-05 11:50:35,740 - src.core.document_processor - INFO - Encontrados 3603 textos para análise
+2025-08-05 11:50:35,740 - src.core.document_processor - INFO - Agrupados em 2 blocos
+2025-08-05 11:51:13,332 - src.core.document_processor - INFO - Bloco 1: 2 erros encontrados
+2025-08-05 11:51:51,078 - src.core.document_processor - INFO - Bloco 2: 2 erros encontrados
+2025-08-05 11:51:51,997 - src.core.document_processor - INFO - Documento salvo com 2 correções aplicadas
+2025-08-05 11:51:51,997 - src.core.document_processor - INFO - Relatório salvo: output/revised\Aprender Mais_5º Ano POR 1 ao 16_revisado_20250805_115034_corrections_report.json
+2025-08-05 11:51:51,997 - src.core.document_comparer - INFO - Usando método tradicional de comparação
+2025-08-05 11:51:54,465 - src.core.document_comparer - INFO - Documento de comparação salvo: output/comparisons\Aprender Mais_5º Ano POR 1 ao 16_comparacao_20250805_115151.docx
+2025-08-05 12:04:59,408 - src.core.document_processor - INFO - Copiando documento original
+2025-08-05 12:05:00,613 - src.core.document_processor - INFO - Encontrados 3603 textos para análise
+2025-08-05 12:05:00,615 - src.core.document_processor - INFO - Agrupados em 1 blocos
+2025-08-05 12:05:08,787 - src.core.document_processor - INFO - Bloco 1: 2 erros encontrados
+2025-08-05 12:05:08,992 - src.core.document_processor - INFO - Correção aplicada: 'é comum que os verbos apareçam no modo imperativo' → 'É comum que os verbos apareçam no modo imperativo'
+2025-08-05 12:05:09,003 - src.core.document_processor - INFO - Correção aplicada: 'de corre do uso de reticências' → 'decorre do uso de reticências'
+2025-08-05 12:05:09,955 - src.core.document_processor - INFO - Documento salvo com 2 correções aplicadas
+2025-08-05 12:05:09,957 - src.core.document_processor - INFO - Relatório detalhado salvo: output/revised\Aprender Mais_5º Ano POR 1 ao 16_revisado_20250805_120459_corrections_report.json
+2025-08-05 12:05:09,963 - root - ERROR - Erro no processamento: ProcessingThread.finished[str].emit(): argument 1 has unexpected type 'tuple'
+2025-08-05 13:02:58,699 - src.core.document_processor - INFO - Copiando documento original
+2025-08-05 13:02:59,710 - src.core.document_processor - INFO - Encontrados 3603 textos para análise
+2025-08-05 13:02:59,711 - src.core.document_processor - INFO - Agrupados em 4 blocos
+2025-08-05 13:03:15,646 - src.core.document_processor - INFO - Bloco 1: 2 erros encontrados
+2025-08-05 13:03:15,652 - src.core.document_processor - INFO - Correção aplicada: 'A palavra notícia tem origem do latim e significa: notoriedade, conhecimento, ideia e conceito.' → 'A palavra notícia tem origem no latim e significa: notoriedade, conhecimento, ideia e conceito.'
+2025-08-05 13:03:15,655 - src.core.document_processor - WARNING - Não foi possível aplicar: 'A lide responde às perguntas: Quem? Onde? O quê? Como? Quando? Por quê?' → 'A lide responde às perguntas: Quem? Onde? O quê? Como? Quando? Por quê?' no texto: • lide: é o primeiro parágrafo da notícia. Ele é muito importante e deve ser um resumo do que será n...
+2025-08-05 13:03:15,656 - src.core.document_processor - WARNING - Falha ao aplicar correção: {'line': 3358, 'error': 'A lide responde às perguntas: Quem? Onde? O quê? Como? Quando? Por quê?', 'correction': 'A lide responde às perguntas: Quem? Onde? O quê? Como? Quando? Por quê?', 'type': 'acentuação', 'text_index': 0}
+2025-08-05 13:03:29,108 - src.core.document_processor - INFO - Bloco 2: 1 erros encontrados
+2025-08-05 13:03:29,111 - src.core.document_processor - INFO - Correção aplicada: 'é comum que os verbos apareçam no modo imperativo' → 'É comum que os verbos apareçam no modo imperativo'
+2025-08-05 13:03:43,795 - src.core.document_processor - INFO - Bloco 3: 2 erros encontrados
+2025-08-05 13:03:43,801 - src.core.document_processor - INFO - Correção aplicada: 'diferentes pontos de vista..' → 'diferentes pontos de vista.'
+2025-08-05 13:03:43,806 - src.core.document_processor - INFO - Correção aplicada: '[Inserir 3 linha]' → '[Inserir 3 linhas]'
+2025-08-05 13:03:49,873 - src.core.document_processor - INFO - Bloco 4: 1 erros encontrados
+2025-08-05 13:03:49,877 - src.core.document_processor - INFO - Correção aplicada: 'acesso em 29 jun 2025' → 'Acesso em: 29 jun. 2025'
+2025-08-05 13:03:50,794 - src.core.document_processor - INFO - Documento salvo com 5 correções aplicadas
+2025-08-05 13:03:50,797 - src.core.document_processor - INFO - Relatório detalhado salvo: output/revised\Aprender Mais_5º Ano POR 1 ao 16_revisado_20250805_130258_corrections_report.json
+2025-08-05 13:03:50,801 - src.core.document_comparer - INFO - Usando log de correções para comparação precisa
+2025-08-05 13:03:51,306 - src.core.document_comparer - INFO - Documento de comparação salvo: output/comparisons\Aprender Mais_5º Ano POR 1 ao 16_comparacao_20250805_130350.docx
+2025-08-05 13:20:38,920 - src.core.document_processor - INFO - Copiando documento original
+2025-08-05 13:20:40,568 - src.core.document_processor - INFO - Encontrados 3603 textos para análise
+2025-08-05 13:20:40,569 - src.core.document_processor - INFO - Agrupados em 4 blocos
+2025-08-05 13:20:51,212 - src.core.document_processor - INFO - Bloco 1: 1 erros reportados pela API
+2025-08-05 13:20:51,217 - src.core.document_processor - INFO - Correção aplicada: 'A palavra notícia tem origem do latim e significa: notoriedade, conhecimento, ideia e conceito.' → 'A palavra notícia tem origem no latim e significa: notoriedade, conhecimento, ideia e conceito.'
+2025-08-05 13:21:13,009 - src.core.document_processor - INFO - Bloco 2: 2 erros reportados pela API
+2025-08-05 13:21:13,009 - src.core.document_processor - INFO - Correção aplicada: 'é comum que os verbos apareçam no modo imperativo' → 'É comum que os verbos apareçam no modo imperativo'
+2025-08-05 13:21:13,009 - src.core.document_processor - INFO - Correção aplicada: '<legenda: O pão de queijo é um saboroso símbolo da culinária brasileira, perfeito para qualquer hora do dia' → '<legenda: O pão de queijo é um saboroso símbolo da culinária brasileira, perfeito para qualquer hora do dia>'
+2025-08-05 13:24:23,569 - src.core.document_processor - INFO - Copiando documento original
+2025-08-05 13:24:25,304 - src.core.document_processor - INFO - Encontrados 3603 textos para análise
+2025-08-05 13:24:25,304 - src.core.document_processor - INFO - Agrupados em 4 blocos
+2025-08-05 13:24:27,188 - src.core.document_processor - INFO - Bloco 1: 1 erros reportados pela API
+2025-08-05 13:24:27,188 - src.core.document_processor - INFO - Correção aplicada: 'A palavra notícia tem origem do latim e significa: notoriedade, conhecimento, ideia e conceito.' → 'A palavra notícia tem origem no latim e significa: notoriedade, conhecimento, ideia e conceito.'
+2025-08-05 13:24:34,809 - src.core.document_processor - INFO - Bloco 2: 2 erros reportados pela API
+2025-08-05 13:24:34,810 - src.core.document_processor - INFO - Correção aplicada: 'é comum que os verbos apareçam no modo imperativo' → 'É comum que os verbos apareçam no modo imperativo'
+2025-08-05 13:24:34,810 - src.core.document_processor - INFO - Correção aplicada: '<legenda: O pão de queijo é um saboroso símbolo da culinária brasileira, perfeito para qualquer hora do dia' → '<legenda: O pão de queijo é um saboroso símbolo da culinária brasileira, perfeito para qualquer hora do dia>'
+2025-08-05 13:24:51,131 - src.core.document_processor - INFO - Bloco 3: 14 erros reportados pela API
+2025-08-05 13:24:51,131 - src.core.document_processor - INFO - Correção aplicada: 'Ela traz informações essenciais para o uso correto e seguro do medicamento.>' → 'Ela traz informações essenciais para o uso correto e seguro do medicamento.'
+2025-08-05 13:24:51,131 - src.core.document_processor - INFO - Correção aplicada: 'Prurido: Sensação de coceira intensa na pele, que dá vontade de coçar constantemente.' → 'Prurido: Sensação de coceira intensa na pele, que dá vontade de coçar constantemente'
+2025-08-05 13:24:51,131 - src.core.document_processor - INFO - Correção aplicada: 'Tópico: Relativo à aplicação sobre a pele. Quando um medicamento é usado topicamente, ele deve ser passado na superfície da pele (como pomadas, cremes e loções), em vez de ser ingerido ou injetado.' → 'Tópico: Relativo à aplicação sobre a pele. Quando um medicamento é usado topicamente, ele deve ser passado na superfície da pele (como pomadas, cremes e loções), em vez de ser ingerido ou injetado'
+2025-08-05 13:24:51,145 - src.core.document_processor - INFO - Correção aplicada: '( ) Inflamações em geral. ' → '( ) Inflamações em geral.'
+2025-08-05 13:24:51,145 - src.core.document_processor - INFO - Correção aplicada: '( ) Para tratar otite. ' → '( ) Para tratar otite.'
+2025-08-05 13:24:51,145 - src.core.document_processor - WARNING - Não foi possível aplicar: 'Uma tesoura reclamando: “Só me procuram na hora do aperto!”' → 'Uma tesoura reclamando: “Só me procuram na hora do aperto!”' no texto: Uma tesoura reclamando: “Só me procuram na hora do aperto!”...
+2025-08-05 13:24:51,145 - src.core.document_processor - WARNING - Não foi possível aplicar: 'Uma toalha dizendo: “Já posso pedir aposentadoria?”' → 'Uma toalha dizendo: “Já posso pedir aposentadoria?”' no texto: Uma toalha dizendo: “Já posso pedir aposentadoria?”...
+2025-08-05 13:24:51,145 - src.core.document_processor - INFO - Correção aplicada: 'Como você fica sabendo do que acontece no mundo todos os dias? É por meio da notícia e da reportagem que nos comunicamos com a realidade, entendemos os fatos e formamos nossas opiniões. Aprender sobre esses gêneros textuais é descobrir como a informação chega até nós e como ela nos torna cidadãos mais críticos, curiosos e bem informados!' → 'Como você fica sabendo do que acontece no mundo todos os dias? É por meio da notícia e da reportagem que nos comunicamos com a realidade, entendemos os fatos e formamos nossas opiniões. Aprender sobre esses gêneros textuais é descobrir como a informação chega até nós e como ela nos torna cidadãos mais críticos, curiosos e bem-informados!'
+2025-08-05 13:24:51,145 - src.core.document_processor - INFO - Correção aplicada: '• Ensina a olhar além do óbvio, considerando diferentes pontos de vista..' → '• Ensina a olhar além do óbvio, considerando diferentes pontos de vista.'
+2025-08-05 13:24:51,162 - src.core.document_processor - INFO - Correção aplicada: 'Da próxima vez que você  ler uma reportagem, observe cada parte com atenção e tente compreender  tudo o que ela quer transmitir. Assim, você vai ficar sempre bem-informado e pronto  para conversar com segurança sobre os assuntos do  seu dia a dia!' → 'Da próxima vez que você ler uma reportagem, observe cada parte com atenção e tente compreender tudo o que ela quer transmitir. Assim, você vai ficar sempre bem-informado e pronto para conversar com segurança sobre os assuntos do seu dia a dia!'
+2025-08-05 13:24:51,162 - src.core.document_processor - INFO - Correção aplicada: 'Por RJ2 16/04/2020 20h28. Atualizado há 5 anos' → 'Por RJ2 16/04/2020 20h28. Atualizado há 5 anos'
+2025-08-05 13:24:51,162 - src.core.document_processor - INFO - Correção aplicada: 'O Museu Nacional de Arte Letã localizado em Riga, capital da Letônia, tornou-se a casa da estatueta dourada do Oscar 2025 de Flow, filme que conquistou o Oscar de Melhor Animação. Esta é a primeira vez que um longa do país europeu venceu a principal premiação dos cinemas.' → 'O Museu Nacional de Arte Letã, localizado em Riga, capital da Letônia, tornou-se a casa da estatueta dourada do Oscar 2025 de Flow, filme que conquistou o Oscar de Melhor Animação. Esta é a primeira vez que um longa do país europeu venceu a principal premiação dos cinemas.'
+2025-08-05 13:24:51,162 - src.core.document_processor - INFO - Correção aplicada: 'Em uma coprodução entre Letônia, Bélgica e França, Flow usa sons de animais reais e preza por retratar cada um deles da forma mais realista possível. Para isso, os produtores e diretor contaram com um orçamento discreto de 3,5 milhões de euros e utilizaram um software gratuito para criar todas as cenas.' → 'Em uma coprodução entre Letônia, Bélgica e França, Flow usa sons de animais reais e preza por retratar cada um deles da forma mais realista possível. Para isso, os produtores e o diretor contaram com um orçamento discreto de 3,5 milhões de euros e utilizaram um software gratuito para criar todas as cenas.'
+2025-08-05 13:24:51,162 - src.core.document_processor - INFO - Correção aplicada: 'Fale aos estudantes que cada linha do poema se chama verso e que o conjunto de versos se chama estrofe. Aproveite para falar da rima, que é um recurso musical baseado na repetição de sons iguais ou semelhantes no final dos versos (rima externa) ou no interior dos versos (rima interna).' → 'Fale aos estudantes que cada linha do poema se chama verso e que o conjunto de versos se chama estrofe. Aproveite para falar da rima, que é um recurso musical baseado na repetição de sons iguais ou semelhantes no final dos versos (rima externa) ou no interior dos versos (rima interna)'
+2025-08-05 13:24:55,198 - src.core.document_processor - INFO - Bloco 4: 1 erros reportados pela API
+2025-08-05 13:24:55,202 - src.core.document_processor - INFO - Correção aplicada: 'acesso em 29 jun 2025' → 'Acesso em: 29 jun. 2025'
+2025-08-05 13:24:55,202 - src.core.document_processor - INFO - Verificando todas as mudanças no documento...
+2025-08-05 13:24:56,328 - src.core.document_processor - INFO - Documento salvo com 16 correções totais
+2025-08-05 13:24:56,328 - src.core.document_processor - INFO - - 18 reportadas pela API
+2025-08-05 13:24:56,328 - src.core.document_processor - INFO - - -2 detectadas automaticamente
+2025-08-05 13:24:56,344 - src.core.document_processor - INFO - Relatório completo salvo: output/revised\Aprender Mais_5º Ano POR 1 ao 16_revisado_20250805_132423_complete_report.json
+2025-08-05 13:24:56,350 - src.core.document_comparer - INFO - Gerando comparação completa do documento
+2025-08-05 13:25:03,277 - src.core.document_comparer - INFO - Documento de comparação completo salvo: output/comparisons\Aprender Mais_5º Ano POR 1 ao 16_comparacao_20250805_132456.docx
+2025-08-05 13:34:19,581 - src.core.document_processor - INFO - Copiando documento original
+2025-08-05 13:34:21,419 - src.core.document_processor - INFO - Encontrados 3603 textos para análise
+2025-08-05 13:34:21,420 - src.core.document_processor - INFO - Agrupados em 4 blocos
+2025-08-05 13:34:32,488 - src.core.document_processor - INFO - Bloco 1: 1 erros reportados pela API
+2025-08-05 13:34:32,489 - src.core.document_processor - INFO - Correção aplicada: 'como: a casa, a rua, a comunidade, a escola e nas mídias impressa, de massa e digital' → 'como: a casa, a rua, a comunidade, a escola e nas mídias impressas, de massa e digitais'
+2025-08-05 13:34:49,980 - src.core.document_processor - INFO - Bloco 2: 2 erros reportados pela API
+2025-08-05 13:34:49,985 - src.core.document_processor - INFO - Correção aplicada: 'é comum que os verbos apareçam no modo imperativo' → 'É comum que os verbos apareçam no modo imperativo'
+2025-08-05 13:34:49,990 - src.core.document_processor - INFO - Correção aplicada: '<legenda: O pão de queijo é um saboroso símbolo da culinária brasileira, perfeito para qualquer hora do dia' → '<legenda: O pão de queijo é um saboroso símbolo da culinária brasileira, perfeito para qualquer hora do dia>'
+2025-08-05 13:34:53,862 - src.core.document_processor - INFO - Bloco 3: 1 erros reportados pela API
+2025-08-05 13:34:53,867 - src.core.document_processor - INFO - Correção aplicada: 'D) Sul' → 'D) Sul.'
+2025-08-05 13:35:01,312 - src.core.document_processor - INFO - Bloco 4: 1 erros reportados pela API
+2025-08-05 13:35:01,318 - src.core.document_processor - INFO - Correção aplicada: 'acesso em 29 jun 2025' → 'Acesso em: 29 jun. 2025'
+2025-08-05 13:35:01,318 - src.core.document_processor - INFO - Verificando todas as mudanças no documento...
+2025-08-05 13:35:02,491 - src.core.document_processor - INFO - Documento salvo com 5 correções totais
+2025-08-05 13:35:02,492 - src.core.document_processor - INFO - - 5 reportadas pela API
+2025-08-05 13:35:02,492 - src.core.document_processor - INFO - - 0 detectadas automaticamente
+2025-08-05 13:35:02,494 - src.core.document_processor - INFO - Relatório completo salvo: output/revised\Aprender Mais_5º Ano POR 1 ao 16_revisado_20250805_133419_complete_report.json
+2025-08-05 13:35:02,498 - src.core.document_comparer - INFO - Criando comparação espelhada completa
+2025-08-05 13:35:05,539 - src.core.document_comparer - INFO - Comparação espelhada salva: output/comparisons\Aprender Mais_5º Ano POR 1 ao 16_comparacao_20250805_133502.docx
+2025-08-05 13:37:21,212 - src.core.document_processor - INFO - Copiando documento original
+2025-08-05 13:37:22,823 - src.core.document_processor - INFO - Encontrados 3603 textos para análise
+2025-08-05 13:37:22,839 - src.core.document_processor - INFO - Agrupados em 4 blocos
+2025-08-05 13:37:28,442 - src.core.document_processor - INFO - Bloco 1: 2 erros reportados pela API
+2025-08-05 13:37:28,456 - src.core.document_processor - INFO - Correção aplicada: 'Legenda: Verbete é um texto curto que explica palavras de forma clara, com eles podemos descobrir o mundo nos dicionários!' → 'Legenda: Verbete é um texto curto que explica palavras de forma clara; com eles, podemos descobrir o mundo nos dicionários!'
+2025-08-05 13:37:28,456 - src.core.document_processor - INFO - Correção aplicada: 'Nelas, fatos simples do dia a dia ganham um toque inesperado que faz a gente rir e, às vezes, até refletir sobre nossas próprias atitudes.' → 'Nelas, fatos simples do dia a dia ganham um toque inesperado, que faz a gente rir e, às vezes, até refletir sobre nossas próprias atitudes.'
+2025-08-05 13:37:36,208 - src.core.document_processor - INFO - Bloco 2: 1 erros reportados pela API
+2025-08-05 13:37:36,209 - src.core.document_processor - INFO - Correção aplicada: 'é comum que os verbos apareçam no modo imperativo' → 'É comum que os verbos apareçam no modo imperativo'
+2025-08-05 13:37:43,278 - src.core.document_processor - INFO - Bloco 3: 3 erros reportados pela API
+2025-08-05 13:37:43,282 - src.core.document_processor - INFO - Correção aplicada: 'pontos de vista..' → 'pontos de vista.'
+2025-08-05 13:37:43,282 - src.core.document_processor - INFO - Correção aplicada: 'você  ler' → 'você ler'
+2025-08-05 13:37:43,291 - src.core.document_processor - INFO - Correção aplicada: 'compreender  tudo' → 'compreender tudo'
+2025-08-05 13:37:56,504 - src.core.document_processor - INFO - Bloco 4: 13 erros reportados pela API
+2025-08-05 13:37:56,507 - src.core.document_processor - INFO - Correção aplicada: 'Eixo coggnitivo' → 'Eixo cognitivo'
+2025-08-05 13:37:56,510 - src.core.document_processor - INFO - Correção aplicada: 'Eixo cogngitivo' → 'Eixo cognitivo'
+2025-08-05 13:37:56,510 - src.core.document_processor - INFO - Correção aplicada: 'Eixo cognitgivo' → 'Eixo cognitivo'
+2025-08-05 13:37:56,519 - src.core.document_processor - INFO - Correção aplicada: 'Eixo cognitivgo' → 'Eixo cognitivo'
+2025-08-05 13:37:56,519 - src.core.document_processor - INFO - Correção aplicada: 'Eixo cognitivod' → 'Eixo cognitivo'
+2025-08-05 13:37:56,519 - src.core.document_processor - INFO - Correção aplicada: 'sIdentificar' → 'Identificar'
+2025-08-05 13:37:56,519 - src.core.document_processor - INFO - Correção aplicada: 'Isdentificar' → 'Identificar'
+2025-08-05 13:37:56,519 - src.core.document_processor - INFO - Correção aplicada: 'Aanalisar' → 'Analisar'
+2025-08-05 13:37:56,534 - src.core.document_processor - INFO - Correção aplicada: 'expreassivos' → 'expressivos'
+2025-08-05 13:37:56,534 - src.core.document_processor - INFO - Correção aplicada: 'verabos' → 'verbos'
+2025-08-05 13:37:56,534 - src.core.document_processor - INFO - Correção aplicada: 'sendoa' → 'sendo'
+2025-08-05 13:37:56,534 - src.core.document_processor - INFO - Correção aplicada: 'daia' → 'dia'
+2025-08-05 13:37:56,534 - src.core.document_processor - INFO - Correção aplicada: 'aas' → 'as'
+2025-08-05 13:37:56,534 - src.core.document_processor - INFO - Verificando todas as mudanças no documento...
+2025-08-05 13:37:57,673 - src.core.document_processor - INFO - Documento salvo com 19 correções totais
+2025-08-05 13:37:57,673 - src.core.document_processor - INFO - - 19 reportadas pela API
+2025-08-05 13:37:57,673 - src.core.document_processor - INFO - - 0 detectadas automaticamente
+2025-08-05 13:37:57,673 - src.core.document_processor - INFO - Relatório completo salvo: output/revised\Aprender Mais_5º Ano POR 1 ao 16_revisado_20250805_133721_complete_report.json
+2025-08-05 13:37:57,687 - src.core.document_comparer - INFO - Criando comparação espelhada completa
+2025-08-05 13:38:02,208 - src.core.document_comparer - INFO - Comparação espelhada salva: output/comparisons\Aprender Mais_5º Ano POR 1 ao 16_comparacao_20250805_133757.docx
+2025-08-05 14:47:12,376 - src.core.document_processor - INFO - Iniciando processamento ULTRA-PRECISO
+2025-08-05 14:47:13,634 - src.core.document_processor - INFO - Total de 3621 parágrafos para análise DETALHADA
+2025-08-05 14:47:13,634 - src.core.document_processor - INFO - Dividido em 73 blocos pequenos para análise minuciosa
+2025-08-05 14:47:13,634 - src.core.document_processor - INFO - Bloco 1/73: Parágrafos 1-50 (50 textos)
+2025-08-05 14:47:14,913 - src.core.document_processor - INFO - Bloco 1: 1 erros encontrados
+2025-08-05 14:47:14,917 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 8
+2025-08-05 14:47:14,917 - src.core.document_processor - INFO - Bloco 2/73: Parágrafos 51-100 (50 textos)
+2025-08-05 14:47:16,125 - src.core.document_processor - INFO - Bloco 2: 1 erros encontrados
+2025-08-05 14:47:16,125 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 77
+2025-08-05 14:47:16,125 - src.core.document_processor - INFO - Bloco 3/73: Parágrafos 101-150 (50 textos)
+2025-08-05 14:47:17,339 - src.core.document_processor - INFO - Bloco 3: 1 erros encontrados
+2025-08-05 14:47:17,343 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 117
+2025-08-05 14:47:17,343 - src.core.document_processor - INFO - Bloco 4/73: Parágrafos 151-200 (50 textos)
+2025-08-05 14:47:20,665 - src.core.document_processor - INFO - Bloco 5/73: Parágrafos 201-250 (50 textos)
+2025-08-05 14:47:22,185 - src.core.document_processor - INFO - Bloco 5: 1 erros encontrados
+2025-08-05 14:47:22,185 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 216
+2025-08-05 14:47:22,185 - src.core.document_processor - INFO - Bloco 6/73: Parágrafos 251-300 (50 textos)
+2025-08-05 14:47:23,574 - src.core.document_processor - INFO - Bloco 6: 1 erros encontrados
+2025-08-05 14:47:23,574 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 264
+2025-08-05 14:47:23,574 - src.core.document_processor - INFO - Bloco 7/73: Parágrafos 301-350 (50 textos)
+2025-08-05 14:47:25,357 - src.core.document_processor - INFO - Bloco 7: 1 erros encontrados
+2025-08-05 14:47:25,357 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 319
+2025-08-05 14:47:25,357 - src.core.document_processor - INFO - Bloco 8/73: Parágrafos 351-400 (50 textos)
+2025-08-05 14:47:27,784 - src.core.document_processor - INFO - Bloco 9/73: Parágrafos 401-450 (50 textos)
+2025-08-05 14:47:28,634 - src.core.document_processor - INFO - Bloco 10/73: Parágrafos 451-500 (50 textos)
+2025-08-05 14:47:29,705 - src.core.document_processor - INFO - Bloco 11/73: Parágrafos 501-550 (50 textos)
+2025-08-05 14:47:31,232 - src.core.document_processor - INFO - Bloco 11: 1 erros encontrados
+2025-08-05 14:47:31,232 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 518
+2025-08-05 14:47:31,232 - src.core.document_processor - INFO - Bloco 12/73: Parágrafos 551-600 (50 textos)
+2025-08-05 14:47:32,634 - src.core.document_processor - INFO - Bloco 12: 1 erros encontrados
+2025-08-05 14:47:32,641 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 560
+2025-08-05 14:47:32,641 - src.core.document_processor - INFO - Bloco 13/73: Parágrafos 601-650 (50 textos)
+2025-08-05 14:47:33,572 - src.core.document_processor - INFO - Bloco 14/73: Parágrafos 651-700 (50 textos)
+2025-08-05 14:47:34,896 - src.core.document_processor - INFO - Bloco 14: 1 erros encontrados
+2025-08-05 14:47:34,896 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 674
+2025-08-05 14:47:34,896 - src.core.document_processor - INFO - Bloco 15/73: Parágrafos 701-750 (50 textos)
+2025-08-05 14:47:36,430 - src.core.document_processor - INFO - Bloco 15: 2 erros encontrados
+2025-08-05 14:47:36,430 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 712
+2025-08-05 14:47:36,430 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 712
+2025-08-05 14:47:36,430 - src.core.document_processor - INFO - Bloco 16/73: Parágrafos 751-800 (50 textos)
+2025-08-05 14:47:37,637 - src.core.document_processor - INFO - Bloco 16: 1 erros encontrados
+2025-08-05 14:47:37,637 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 787
+2025-08-05 14:47:37,638 - src.core.document_processor - INFO - Bloco 17/73: Parágrafos 801-850 (50 textos)
+2025-08-05 14:47:38,487 - src.core.document_processor - INFO - Bloco 18/73: Parágrafos 851-900 (50 textos)
+2025-08-05 14:47:39,736 - src.core.document_processor - INFO - Bloco 18: 1 erros encontrados
+2025-08-05 14:47:39,736 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 861
+2025-08-05 14:47:39,736 - src.core.document_processor - INFO - Bloco 19/73: Parágrafos 901-950 (50 textos)
+2025-08-05 14:47:40,513 - src.core.document_processor - INFO - Bloco 20/73: Parágrafos 951-1000 (50 textos)
+2025-08-05 14:47:41,877 - src.core.document_processor - INFO - Bloco 20: 2 erros encontrados
+2025-08-05 14:47:41,886 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 974
+2025-08-05 14:47:41,886 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 976
+2025-08-05 14:47:41,886 - src.core.document_processor - INFO - Bloco 21/73: Parágrafos 1001-1050 (50 textos)
+2025-08-05 14:47:43,020 - src.core.document_processor - INFO - Bloco 21: 1 erros encontrados
+2025-08-05 14:47:43,022 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 1045
+2025-08-05 14:47:43,022 - src.core.document_processor - INFO - Bloco 22/73: Parágrafos 1051-1100 (50 textos)
+2025-08-05 14:47:44,505 - src.core.document_processor - INFO - Bloco 22: 1 erros encontrados
+2025-08-05 14:47:44,505 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 1098
+2025-08-05 14:47:44,505 - src.core.document_processor - INFO - Bloco 23/73: Parágrafos 1101-1150 (50 textos)
+2025-08-05 14:47:45,314 - src.core.document_processor - INFO - Bloco 24/73: Parágrafos 1151-1200 (50 textos)
+2025-08-05 14:47:52,195 - src.core.document_processor - INFO - Bloco 24: 1 erros encontrados
+2025-08-05 14:47:52,196 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 1168
+2025-08-05 14:47:52,196 - src.core.document_processor - INFO - Bloco 25/73: Parágrafos 1201-1250 (50 textos)
+2025-08-05 14:47:54,232 - src.core.document_processor - INFO - Bloco 25: 1 erros encontrados
+2025-08-05 14:47:54,233 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 1203
+2025-08-05 14:47:54,235 - src.core.document_processor - INFO - Bloco 26/73: Parágrafos 1251-1300 (50 textos)
+2025-08-05 14:47:54,960 - src.core.document_processor - INFO - Bloco 27/73: Parágrafos 1301-1350 (50 textos)
+2025-08-05 14:47:56,134 - src.core.document_processor - INFO - Bloco 27: 1 erros encontrados
+2025-08-05 14:47:56,135 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 1310
+2025-08-05 14:47:56,135 - src.core.document_processor - INFO - Bloco 28/73: Parágrafos 1351-1400 (50 textos)
+2025-08-05 14:47:57,437 - src.core.document_processor - INFO - Bloco 28: 1 erros encontrados
+2025-08-05 14:47:57,439 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 1391
+2025-08-05 14:47:57,439 - src.core.document_processor - INFO - Bloco 29/73: Parágrafos 1401-1450 (50 textos)
+2025-08-05 14:47:58,272 - src.core.document_processor - INFO - Bloco 30/73: Parágrafos 1451-1500 (50 textos)
+2025-08-05 14:47:58,997 - src.core.document_processor - INFO - Bloco 31/73: Parágrafos 1501-1550 (50 textos)
+2025-08-05 14:48:00,311 - src.core.document_processor - INFO - Bloco 31: 1 erros encontrados
+2025-08-05 14:48:00,312 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 1519
+2025-08-05 14:48:00,312 - src.core.document_processor - INFO - Bloco 32/73: Parágrafos 1551-1600 (50 textos)
+2025-08-05 14:48:02,562 - src.core.document_processor - INFO - Bloco 32: 3 erros encontrados
+2025-08-05 14:48:02,563 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 1585
+2025-08-05 14:48:02,563 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 1587
+2025-08-05 14:48:02,564 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 1596
+2025-08-05 14:48:02,564 - src.core.document_processor - INFO - Bloco 33/73: Parágrafos 1601-1650 (50 textos)
+2025-08-05 14:48:03,967 - src.core.document_processor - INFO - Bloco 33: 1 erros encontrados
+2025-08-05 14:48:03,969 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 1629
+2025-08-05 14:48:03,970 - src.core.document_processor - INFO - Bloco 34/73: Parágrafos 1651-1700 (50 textos)
+2025-08-05 14:48:05,149 - src.core.document_processor - INFO - Bloco 34: 1 erros encontrados
+2025-08-05 14:48:05,150 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 1664
+2025-08-05 14:48:05,151 - src.core.document_processor - INFO - Bloco 35/73: Parágrafos 1701-1750 (50 textos)
+2025-08-05 14:48:07,077 - src.core.document_processor - INFO - Bloco 35: 2 erros encontrados
+2025-08-05 14:48:07,077 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 1701
+2025-08-05 14:48:07,079 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 1733
+2025-08-05 14:48:07,079 - src.core.document_processor - INFO - Bloco 36/73: Parágrafos 1751-1800 (50 textos)
+2025-08-05 14:48:08,875 - src.core.document_processor - INFO - Bloco 36: 1 erros encontrados
+2025-08-05 14:48:08,884 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 1782
+2025-08-05 14:48:08,884 - src.core.document_processor - INFO - Bloco 37/73: Parágrafos 1801-1850 (50 textos)
+2025-08-05 14:48:10,302 - src.core.document_processor - INFO - Bloco 37: 1 erros encontrados
+2025-08-05 14:48:10,302 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 1816
+2025-08-05 14:48:10,302 - src.core.document_processor - INFO - Bloco 38/73: Parágrafos 1851-1900 (50 textos)
+2025-08-05 14:48:11,282 - src.core.document_processor - INFO - Bloco 39/73: Parágrafos 1901-1950 (50 textos)
+2025-08-05 14:48:12,855 - src.core.document_processor - INFO - Bloco 39: 1 erros encontrados
+2025-08-05 14:48:12,855 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 1949
+2025-08-05 14:48:12,855 - src.core.document_processor - INFO - Bloco 40/73: Parágrafos 1951-2000 (50 textos)
+2025-08-05 14:48:16,177 - src.core.document_processor - INFO - Bloco 40: 1 erros encontrados
+2025-08-05 14:48:16,177 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 1983
+2025-08-05 14:48:16,177 - src.core.document_processor - INFO - Bloco 41/73: Parágrafos 2001-2050 (50 textos)
+2025-08-05 14:48:18,235 - src.core.document_processor - INFO - Bloco 41: 1 erros encontrados
+2025-08-05 14:48:18,235 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2046
+2025-08-05 14:48:18,235 - src.core.document_processor - INFO - Bloco 42/73: Parágrafos 2051-2100 (50 textos)
+2025-08-05 14:48:19,548 - src.core.document_processor - INFO - Bloco 42: 1 erros encontrados
+2025-08-05 14:48:19,552 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2091
+2025-08-05 14:48:19,552 - src.core.document_processor - INFO - Bloco 43/73: Parágrafos 2101-2150 (50 textos)
+2025-08-05 14:48:21,500 - src.core.document_processor - INFO - Bloco 43: 3 erros encontrados
+2025-08-05 14:48:21,504 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2102
+2025-08-05 14:48:21,505 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2148
+2025-08-05 14:48:21,506 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2148
+2025-08-05 14:48:21,506 - src.core.document_processor - INFO - Bloco 44/73: Parágrafos 2151-2200 (50 textos)
+2025-08-05 14:48:23,306 - src.core.document_processor - INFO - Bloco 44: 3 erros encontrados
+2025-08-05 14:48:23,307 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2187
+2025-08-05 14:48:23,308 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2172
+2025-08-05 14:48:23,309 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2173
+2025-08-05 14:48:23,309 - src.core.document_processor - INFO - Bloco 45/73: Parágrafos 2201-2250 (50 textos)
+2025-08-05 14:48:24,499 - src.core.document_processor - INFO - Bloco 45: 1 erros encontrados
+2025-08-05 14:48:24,501 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2245
+2025-08-05 14:48:24,501 - src.core.document_processor - INFO - Bloco 46/73: Parágrafos 2251-2300 (50 textos)
+2025-08-05 14:48:28,857 - src.core.document_processor - INFO - Bloco 46: 11 erros encontrados
+2025-08-05 14:48:28,859 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2257
+2025-08-05 14:48:28,859 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2258
+2025-08-05 14:48:28,860 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2260
+2025-08-05 14:48:28,860 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2262
+2025-08-05 14:48:28,862 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2264
+2025-08-05 14:48:28,862 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2265
+2025-08-05 14:48:28,864 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2265
+2025-08-05 14:48:28,864 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2265
+2025-08-05 14:48:28,864 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2265
+2025-08-05 14:48:28,866 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2267
+2025-08-05 14:48:28,867 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2267
+2025-08-05 14:48:28,867 - src.core.document_processor - INFO - Bloco 47/73: Parágrafos 2301-2350 (50 textos)
+2025-08-05 14:48:30,126 - src.core.document_processor - INFO - Bloco 47: 1 erros encontrados
+2025-08-05 14:48:30,126 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2350
+2025-08-05 14:48:30,126 - src.core.document_processor - INFO - Bloco 48/73: Parágrafos 2351-2400 (50 textos)
+2025-08-05 14:48:31,393 - src.core.document_processor - INFO - Bloco 48: 1 erros encontrados
+2025-08-05 14:48:31,393 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2357
+2025-08-05 14:48:31,393 - src.core.document_processor - INFO - Bloco 49/73: Parágrafos 2401-2450 (50 textos)
+2025-08-05 14:48:32,045 - src.core.document_processor - INFO - Bloco 50/73: Parágrafos 2451-2500 (50 textos)
+2025-08-05 14:48:33,065 - src.core.document_processor - INFO - Bloco 50: 1 erros encontrados
+2025-08-05 14:48:33,066 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2485
+2025-08-05 14:48:33,066 - src.core.document_processor - INFO - Bloco 51/73: Parágrafos 2501-2550 (50 textos)
+2025-08-05 14:48:34,663 - src.core.document_processor - INFO - Bloco 51: 1 erros encontrados
+2025-08-05 14:48:34,666 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2538
+2025-08-05 14:48:34,666 - src.core.document_processor - INFO - Bloco 52/73: Parágrafos 2551-2600 (50 textos)
+2025-08-05 14:48:35,608 - src.core.document_processor - INFO - Bloco 53/73: Parágrafos 2601-2650 (50 textos)
+2025-08-05 14:48:37,111 - src.core.document_processor - INFO - Bloco 53: 1 erros encontrados
+2025-08-05 14:48:37,113 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2607
+2025-08-05 14:48:37,114 - src.core.document_processor - INFO - Bloco 54/73: Parágrafos 2651-2700 (50 textos)
+2025-08-05 14:48:37,968 - src.core.document_processor - INFO - Bloco 54: 1 erros encontrados
+2025-08-05 14:48:37,969 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2691
+2025-08-05 14:48:37,970 - src.core.document_processor - INFO - Bloco 55/73: Parágrafos 2701-2750 (50 textos)
+2025-08-05 14:48:39,849 - src.core.document_processor - INFO - Bloco 55: 2 erros encontrados
+2025-08-05 14:48:39,849 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2737
+2025-08-05 14:48:39,849 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2749
+2025-08-05 14:48:39,849 - src.core.document_processor - INFO - Bloco 56/73: Parágrafos 2751-2800 (50 textos)
+2025-08-05 14:48:40,544 - src.core.document_processor - INFO - Bloco 57/73: Parágrafos 2801-2850 (50 textos)
+2025-08-05 14:48:41,251 - src.core.document_processor - INFO - Bloco 58/73: Parágrafos 2851-2900 (50 textos)
+2025-08-05 14:48:42,597 - src.core.document_processor - INFO - Bloco 58: 1 erros encontrados
+2025-08-05 14:48:42,600 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2857
+2025-08-05 14:48:42,601 - src.core.document_processor - INFO - Bloco 59/73: Parágrafos 2901-2950 (50 textos)
+2025-08-05 14:48:43,686 - src.core.document_processor - INFO - Bloco 60/73: Parágrafos 2951-3000 (50 textos)
+2025-08-05 14:48:44,863 - src.core.document_processor - INFO - Bloco 60: 1 erros encontrados
+2025-08-05 14:48:44,863 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 2964
+2025-08-05 14:48:44,863 - src.core.document_processor - INFO - Bloco 61/73: Parágrafos 3001-3050 (50 textos)
+2025-08-05 14:48:45,542 - src.core.document_processor - INFO - Bloco 62/73: Parágrafos 3051-3100 (50 textos)
+2025-08-05 14:48:49,095 - src.core.document_processor - INFO - Bloco 62: 11 erros encontrados
+2025-08-05 14:48:49,102 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3081
+2025-08-05 14:48:49,102 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3082
+2025-08-05 14:48:49,102 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3083
+2025-08-05 14:48:49,102 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3084
+2025-08-05 14:48:49,102 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3085
+2025-08-05 14:48:49,102 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3086
+2025-08-05 14:48:49,102 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3087
+2025-08-05 14:48:49,102 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3088
+2025-08-05 14:48:49,102 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3090
+2025-08-05 14:48:49,102 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3093
+2025-08-05 14:48:49,102 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3095
+2025-08-05 14:48:49,111 - src.core.document_processor - INFO - Bloco 63/73: Parágrafos 3101-3150 (50 textos)
+2025-08-05 14:48:51,537 - src.core.document_processor - INFO - Bloco 63: 4 erros encontrados
+2025-08-05 14:48:51,537 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3101
+2025-08-05 14:48:51,537 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3102
+2025-08-05 14:48:51,537 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3102
+2025-08-05 14:48:51,537 - src.core.document_processor - ERROR - Erro ao aplicar correção: cannot access local variable 're' where it is not associated with a value
+2025-08-05 14:48:51,537 - src.core.document_processor - WARNING - Falha ao aplicar: {'line': 12, 'error': 'aas', 'correction': 'as', 'type': 'ortografia', 'text_index': 62}
+2025-08-05 14:48:51,537 - src.core.document_processor - INFO - Bloco 64/73: Parágrafos 3151-3200 (50 textos)
+2025-08-05 14:48:53,257 - src.core.document_processor - INFO - Bloco 64: 1 erros encontrados
+2025-08-05 14:48:53,258 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3198
+2025-08-05 14:48:53,258 - src.core.document_processor - INFO - Bloco 65/73: Parágrafos 3201-3250 (50 textos)
+2025-08-05 14:48:55,340 - src.core.document_processor - INFO - Bloco 65: 1 erros encontrados
+2025-08-05 14:48:55,340 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3226
+2025-08-05 14:48:55,340 - src.core.document_processor - INFO - Bloco 66/73: Parágrafos 3251-3300 (50 textos)
+2025-08-05 14:48:56,843 - src.core.document_processor - INFO - Bloco 66: 1 erros encontrados
+2025-08-05 14:48:56,843 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3288
+2025-08-05 14:48:56,843 - src.core.document_processor - INFO - Bloco 67/73: Parágrafos 3301-3350 (50 textos)
+2025-08-05 14:48:58,133 - src.core.document_processor - INFO - Bloco 67: 1 erros encontrados
+2025-08-05 14:48:58,135 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3303
+2025-08-05 14:48:58,136 - src.core.document_processor - INFO - Bloco 68/73: Parágrafos 3351-3400 (50 textos)
+2025-08-05 14:48:59,099 - src.core.document_processor - INFO - Bloco 68: 1 erros encontrados
+2025-08-05 14:48:59,099 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3371
+2025-08-05 14:48:59,099 - src.core.document_processor - INFO - Bloco 69/73: Parágrafos 3401-3450 (50 textos)
+2025-08-05 14:48:59,863 - src.core.document_processor - INFO - Bloco 70/73: Parágrafos 3451-3500 (50 textos)
+2025-08-05 14:49:00,831 - src.core.document_processor - INFO - Bloco 70: 1 erros encontrados
+2025-08-05 14:49:00,837 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3462
+2025-08-05 14:49:00,838 - src.core.document_processor - INFO - Bloco 71/73: Parágrafos 3501-3550 (50 textos)
+2025-08-05 14:49:02,216 - src.core.document_processor - INFO - Bloco 71: 1 erros encontrados
+2025-08-05 14:49:02,216 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3522
+2025-08-05 14:49:02,216 - src.core.document_processor - INFO - Bloco 72/73: Parágrafos 3551-3600 (50 textos)
+2025-08-05 14:49:05,344 - src.core.document_processor - INFO - Bloco 72: 3 erros encontrados
+2025-08-05 14:49:05,346 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3559
+2025-08-05 14:49:05,346 - src.core.document_processor - ERROR - Erro ao aplicar correção: cannot access local variable 're' where it is not associated with a value
+2025-08-05 14:49:05,346 - src.core.document_processor - WARNING - Falha ao aplicar: {'line': 150, 'error': 'identificar os mecanismos de referenciação lexical e pronominal.', 'correction': 'Identificar os mecanismos de referenciação lexical e pronominal.', 'type': 'ortografia/concordância', 'text_index': 71}
+2025-08-05 14:49:05,347 - src.core.document_processor - INFO - ✓ Correção aplicada no parágrafo 3567
+2025-08-05 14:49:05,347 - src.core.document_processor - INFO - Bloco 73/73: Parágrafos 3601-3621 (21 textos)
+2025-08-05 14:49:05,967 - src.core.document_processor - INFO - Verificação final de integridade...
+2025-08-05 14:49:07,150 - src.core.document_processor - INFO - Documento salvo com 86 correções totais
+2025-08-05 14:49:07,150 - src.core.document_processor - ERROR - Erro: 'DocumentProcessor' object has no attribute '_save_detailed_report'
+2025-08-05 14:49:07,159 - root - ERROR - Erro no processamento: 'DocumentProcessor' object has no attribute '_save_detailed_report'
